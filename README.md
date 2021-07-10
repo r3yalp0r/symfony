@@ -49,7 +49,7 @@ Symfony is an Open Source, community-driven project with thousands of
 [contributors][19]. Join them [contributing code][17] or [contributing documentation][18].
 
 Security Issues
----------------
+----------------
 
 If you discover a security vulnerability within Symfony, please follow our
 [disclosure procedure][20].
